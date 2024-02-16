@@ -13,10 +13,10 @@ Para o dessarrollo do projeto foi utilizado como base o modelo <strong>XGBoost</
 <br></br>
 </div>
 <p align="center">
-<img src= "Img/XGBoost_img.png"  height="260">
+<img src= "Img/XGBoost_img.png"  height="230">
 </p>
 <p align="center">
-<img src= "Img/Docker e pyspark_img.png"  height="260">
+<img src= "Img/Docker e pyspark_img.png"  height="180">
 </p>
 
 
